@@ -2,11 +2,22 @@ import React from 'react'
 
 import './styles.css'
 
+const formatPrice = (price) => {
+  if (!price)
+    return '...';
+
+  if(isNaN(price))
+    return price;
+
+  return `R$ ${price.toFixed(2).replace('.', ',')}`
+}
+
 const GameCard = ({ title, gameStudio, price, gameId }) => {
-  const imgSrc = `https://cdn.cloudflare.steamstatic.com/steam/apps/${gameId}/header.jpg`
+  const imgSrc = `https://cdn.cloudflare.steamstatic.com/steam/apps/${gameId}/capsule_616x353.jpg`
+  const steamUrl = `https://store.steampowered.com/app/${gameId}/`
 
   return (
-    <article className="card">
+    <a href={steamUrl} className="card" target="_blank">
       <img src={imgSrc} alt={title}/>
       <div className="card-content">
         <div className="card-content-info">
@@ -14,10 +25,10 @@ const GameCard = ({ title, gameStudio, price, gameId }) => {
           <h3>{gameStudio}</h3>
         </div>
         <div className="card-content-price">
-          <span>R$ {price}</span>
+          <span>{formatPrice(price)}</span>
         </div>
       </div>
-    </article>
+    </a>
   )
 }
 

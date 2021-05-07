@@ -59,7 +59,7 @@ function App() {
                 title={card.title}
                 gameStudio={card.gameStudio}
                 price={card.price}
-                imgSrc={card.imgSrc}
+                gameId={card.gameId}
               />
             })
           }
