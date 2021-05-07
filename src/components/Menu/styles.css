@@ -1,0 +1,46 @@
+.menu {
+  display: flex;
+  align-items: center;
+
+  padding: 2.4em 0;
+
+  position: relative;
+}
+.menu .menu-logo-wrapper {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.menu .menu-icon-wrapper {
+  cursor: pointer;
+}
+
+
+.menu .menu-link-wrapper {
+  margin: initial 1em;
+}
+
+.menu .menu-link-wrapper a {
+  font-size: 16px;
+  margin: 0.3em 2.4em 0;
+
+  color: #F3F3F4;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 600;
+
+  transition: color 0.3s;
+}
+
+.menu .menu-link-wrapper a:hover {
+  color: #f80759;
+}
+
+.menu .menu-menu-group {
+  flex: 1;
+
+  display: flex;
+  gap: 1em;
+  justify-content: flex-end;
+}
