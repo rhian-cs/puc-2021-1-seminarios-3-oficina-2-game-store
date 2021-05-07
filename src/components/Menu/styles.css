@@ -58,7 +58,8 @@
     padding: 2em;
   }
 
-  .menu .menu-menu-group, .menu .menu-icon-wrapper {
-    align-self: flex-end;
+  .menu .menu-menu-group {
+    width: 100%;
+    justify-content: space-between;
   }
 }

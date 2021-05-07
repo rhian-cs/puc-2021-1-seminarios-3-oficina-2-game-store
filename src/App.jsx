@@ -14,7 +14,7 @@ function App() {
       <div>
         <Menu />
       </div>
-      <section>
+      <section className="game-section">
         <Heading title="Most Popular"/>
 
         <div className="card-list">
@@ -31,7 +31,7 @@ function App() {
           }
         </div>
       </section>
-      <section>
+      <section className="game-section">
         <Heading title="Upcoming"/>
 
         <div className="card-list">
@@ -48,7 +48,7 @@ function App() {
           }
         </div>
       </section>
-      <section>
+      <section className="game-section">
         <Heading title="Free-to-play"/>
 
         <div className="card-list">
