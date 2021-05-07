@@ -22,3 +22,5 @@ The following dependencies are required to run the application. I also state the
 ## Building the application
 To build the application for production use `yarn build`.
 
+## License
+[MIT License](https://choosealicense.com/licenses/mit/)
