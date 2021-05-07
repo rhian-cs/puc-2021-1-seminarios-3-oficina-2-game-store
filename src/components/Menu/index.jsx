@@ -10,27 +10,27 @@ import './styles.css'
 const Menu = () => {
   return (
     <menu className="menu">
-      <div className="menu-icon-wrapper">
+      <a href="https://store.steampowered.com/curators/" target="_blank" className="menu-icon-wrapper">
         <MenuIcon size={24} color="#FAFAFA" />
-      </div>
+      </a>
 
       <div className="menu-logo-wrapper">
         <Logo />
       </div>
 
       <nav className="menu-link-wrapper">
-        <a href="#" className="href">Home</a>
-        <a href="#" className="href">Explorer</a>
+        <a href="https://store.steampowered.com/" target="_blank" className="href">Home</a>
+        <a href="https://store.steampowered.com/communityrecommendations/" target="_blank" className="href">Explorer</a>
       </nav>
 
       <div className="menu-menu-group">
-        <div className="menu-icon-wrapper">
+        <a href="https://store.steampowered.com/search" target="_blank" className="menu-icon-wrapper">
           <SearchIcon size={24} color="#FAFAFA" />
-        </div>
+        </a>
 
-        <div className="menu-icon-wrapper">
+        <a href="https://store.steampowered.com/cart/" target="_blank" className="menu-icon-wrapper">
           <ShoppingCart size={24} color="#FAFAFA" />
-        </div>
+        </a>
       </div>
     </menu>
   )
