@@ -1,7 +1,7 @@
 # Game Store
 Seminários III (2021) - Workshop 2 - React
 
-The website will be available soon.
+The website is available [here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/).
 
 ## Description
 This project is the final part of the course, focusing on creating React components, basic CSS and overall training of concepts. It shows some Steam games and has links to the Steam web store.
