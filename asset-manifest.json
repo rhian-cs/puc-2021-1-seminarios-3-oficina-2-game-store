@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/seminarios-2021-oficina-2-game-store/static/css/main.5322eaf4.chunk.css",
-    "main.js": "/seminarios-2021-oficina-2-game-store/static/js/main.05576b44.chunk.js",
-    "main.js.map": "/seminarios-2021-oficina-2-game-store/static/js/main.05576b44.chunk.js.map",
-    "runtime-main.js": "/seminarios-2021-oficina-2-game-store/static/js/runtime-main.b0bac7ab.js",
-    "runtime-main.js.map": "/seminarios-2021-oficina-2-game-store/static/js/runtime-main.b0bac7ab.js.map",
-    "static/js/2.0b4e98c2.chunk.js": "/seminarios-2021-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js",
-    "static/js/2.0b4e98c2.chunk.js.map": "/seminarios-2021-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js.map",
-    "index.html": "/seminarios-2021-oficina-2-game-store/index.html",
-    "static/css/main.5322eaf4.chunk.css.map": "/seminarios-2021-oficina-2-game-store/static/css/main.5322eaf4.chunk.css.map",
-    "static/js/2.0b4e98c2.chunk.js.LICENSE.txt": "/seminarios-2021-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js.LICENSE.txt",
-    "static/media/Logo.6eeb1b07.svg": "/seminarios-2021-oficina-2-game-store/static/media/Logo.6eeb1b07.svg"
+    "main.css": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/css/main.5322eaf4.chunk.css",
+    "main.js": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/main.05576b44.chunk.js",
+    "main.js.map": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/main.05576b44.chunk.js.map",
+    "runtime-main.js": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/runtime-main.08bc2026.js",
+    "runtime-main.js.map": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/runtime-main.08bc2026.js.map",
+    "static/js/2.0b4e98c2.chunk.js": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js",
+    "static/js/2.0b4e98c2.chunk.js.map": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js.map",
+    "index.html": "/puc-2021-1-seminarios-3-oficina-2-game-store/index.html",
+    "static/css/main.5322eaf4.chunk.css.map": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/css/main.5322eaf4.chunk.css.map",
+    "static/js/2.0b4e98c2.chunk.js.LICENSE.txt": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/js/2.0b4e98c2.chunk.js.LICENSE.txt",
+    "static/media/Logo.6eeb1b07.svg": "/puc-2021-1-seminarios-3-oficina-2-game-store/static/media/Logo.6eeb1b07.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0bac7ab.js",
+    "static/js/runtime-main.08bc2026.js",
     "static/js/2.0b4e98c2.chunk.js",
     "static/css/main.5322eaf4.chunk.css",
     "static/js/main.05576b44.chunk.js"
