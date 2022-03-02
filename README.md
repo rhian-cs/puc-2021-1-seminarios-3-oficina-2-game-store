@@ -22,5 +22,8 @@ The following dependencies are required to run the application. I also state the
 ## Building the application
 To build the application for production use `yarn build`.
 
+## Deployment
+You can deploy this application by running `yarn deploy`. This will automatically build the application and put all the build files in the `gh-pages` branch. After the deployment is done, you can see the page live [here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-game-store/).
+
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
