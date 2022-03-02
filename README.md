@@ -13,8 +13,8 @@ The following dependencies are required to run the application. I also state the
 - Yarn (1.22.5)
 
 ## Installation
-- Clone the project using `git clone https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store`.
-- Go to the cloned repository by using `cd seminarios-2021-oficina-2-game-store`.
+- Clone the project using `git clone https://github.com/rhian-cs/puc-2021-1-seminarios-3-oficina-2-game-store`.
+- Go to the cloned repository by using `cd puc-2021-1-seminarios-3-oficina-2-game-store`.
 - Install the JavaScript dependencies with `yarn install`.
 - Run `yarn start` to open the development server.
 - The server will be available at [http://localhost:3000](http://localhost:3000).
